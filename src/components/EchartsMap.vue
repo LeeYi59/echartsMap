@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="logo-info">
-      <h1>东莞市邮政行业安全监管平台</h1>
+      <h1>数据可视化展示平台</h1>
     </div>
     <div class="time-info">
       <div class="weather-box">
@@ -735,7 +735,7 @@ export default {
 
       let option = {
         title: {
-          text: "东莞市各快递品牌业务量与收入统计",
+          text: "快递品牌业务量与收入统计",
           top: 10,
           // subtext: "纯属虚构",
           textStyle: {
@@ -847,7 +847,7 @@ export default {
         },
         title: {
           top: 10,
-          text: "东莞市邮政行业业务量与收入情况",
+          text: "邮政行业业务量与收入情况",
           textStyle: {
             color: "#fff"
           }
@@ -969,7 +969,7 @@ export default {
         },
         title: {
           top: 10,
-          text: "东莞市快递行业业务量与收入情况",
+          text: "快递行业业务量与收入情况",
           textStyle: {
             color: "#fff"
           }
